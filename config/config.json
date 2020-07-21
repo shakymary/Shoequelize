@@ -1,7 +1,11 @@
 {
   "development": {
     "username": "root",
+<<<<<<< HEAD
     "password": "coding2020",
+=======
+    "password": "password",
+>>>>>>> ddbc8ea3c587e22fd477a2471623c6a5fe5b8779
     "database": "shoes_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
